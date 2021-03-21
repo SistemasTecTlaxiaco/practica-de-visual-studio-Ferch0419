@@ -1,0 +1,13 @@
+C:\Users\milo4\source\repos\Checkealo!\bin\Debug\Checkealo!.exe.config
+C:\Users\milo4\source\repos\Checkealo!\bin\Debug\Checkealo!.exe
+C:\Users\milo4\source\repos\Checkealo!\bin\Debug\Checkealo!.pdb
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo!.csprojAssemblyReference.cache
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo_.Form1.resources
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo_.Properties.Resources.resources
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo!.csproj.GenerateResource.cache
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo!.csproj.CoreCompileInputs.cache
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo!.exe
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo!.pdb
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo_.Form2.resources
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo_.Form3.resources
+C:\Users\milo4\source\repos\Checkealo!\obj\Debug\Checkealo_.Form4.resources
